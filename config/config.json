@@ -15,5 +15,7 @@
   },
   "es_host": "localhost",
   "es_port": 9200,
+  "protocol": "https",
+  "auth": "user:password",
   "writeback_index": "elastalert_status"
 }
